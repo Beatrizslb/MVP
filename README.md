@@ -5,6 +5,5 @@ O **MVP (Produto Mínimo Viável)** tem como objetivo validar a ideia de um sist
 Nesta primeira versão, o sistema permite:
 
 - ✅ **Cadastrar tarefas** com título, descrição e prazo;  
-- 📋 **Listar tarefas** pendentes e concluídas;  
-- ✏️ **Editar ou excluir** tarefas;  
+- 📋 **Listar tarefas** pendentes, em andamento e concluídas;  
 - 🕓 **Marcar como concluída** ao finalizar. 
