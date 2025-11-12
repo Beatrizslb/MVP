@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import date
 
-st.title("⚙️ Gerenciador de Processos - PMLI")
+st.title("⚙️ Gerenciador de Processos")
 st.sidebar.header("Cadastrar Novo Processo")
 
 id = st.sidebar.number_input("ID", step=1)
