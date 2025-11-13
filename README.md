@@ -6,6 +6,8 @@ Este repositório contém o **MVP (Produto Mínimo Viável)** de um sistema de g
 
 O objetivo é fornecer uma interface simples e funcional para o **cadastro, acompanhamento e conclusão das ações estratégicas do plano**, garantindo visibilidade e controle sobre os recursos de TI.
 
+**Vídeo de apresentação do MVP + PDTIC:** https://youtu.be/kr_lzCCnGxQ
+
 ---
 
 ## ⚙️ Arquitetura
